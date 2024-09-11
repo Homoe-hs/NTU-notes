@@ -5,7 +5,6 @@ tags:
 number headings: auto, first-level 2, max 4, contents ^toc, 1.1.
 publish: "true"
 ---
-![[星野.jpg|300]]
 
 ## 1. 平面传输线
 
