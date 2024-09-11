@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"9589e4bd4a1b05e8","x":-265,"y":-190,"width":588,"height":275,"type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/微带线宽高比经验计算式.md"},
-		{"id":"4f2120e56f3d504f","x":365,"y":-137,"width":635,"height":179,"type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/频率依赖的有效微带线宽度计算式.md"},
-		{"id":"ae753a36f44c60cf","x":-96,"y":-274,"width":250,"height":60,"color":"4","type":"text","text":"基础参数\n$Z_{0}$，$\\epsilon_{r}$，$f$，$h$"},
-		{"id":"a2d30e6a2ee69542","x":-307,"y":109,"width":673,"height":298,"type":"file","file":"200 文献笔记/线下课程/UESTC/格院大四上课程/微波集成电路课程/课程笔记/MIC 基础知识/传输线理论/CPW 有效相对介电常数计算式.md"},
-		{"id":"94a96443cf2fa975","x":-375,"y":476,"width":404,"height":271,"type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/频率依赖的有效介电常数的基于 Getsinger 模型的简化经验计算公式.md"},
-		{"id":"46ae389d239e6894","x":75,"y":495,"width":400,"height":233,"type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/Edwards 和 Owens 提出的频率依赖的有效介电常数的计算式.md"},
-		{"id":"eccf600cd59edc9a","x":483,"y":-334,"width":400,"height":168,"color":"4","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/自由空间波阻抗计算式.md"},
-		{"id":"111f346815cc8c4f","x":483,"y":73,"width":400,"height":120,"type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/频率依赖的特征阻抗计算式.md"},
-		{"id":"b376d3eb9e2807d0","x":-133,"y":-384,"width":325,"height":50,"color":"4","type":"text","text":"# EE6128 RF 公式总结"}
+		{"id":"9589e4bd4a1b05e8","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/微带线宽高比经验计算式.md","x":-265,"y":-190,"width":588,"height":275},
+		{"id":"ae753a36f44c60cf","type":"text","text":"基础参数\n$Z_{0}$，$\\epsilon_{r}$，$f$，$h$","x":-96,"y":-274,"width":250,"height":60,"color":"4"},
+		{"id":"a2d30e6a2ee69542","type":"file","file":"200 文献笔记/线下课程/UESTC/格院大四上课程/微波集成电路课程/课程笔记/MIC 基础知识/传输线理论/CPW 有效相对介电常数计算式.md","x":-307,"y":109,"width":673,"height":298},
+		{"id":"94a96443cf2fa975","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/频率依赖的有效介电常数的基于 Getsinger 模型的简化经验计算公式.md","x":-375,"y":476,"width":404,"height":271},
+		{"id":"46ae389d239e6894","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/Edwards 和 Owens 提出的频率依赖的有效介电常数的计算式.md","x":75,"y":495,"width":400,"height":233},
+		{"id":"b376d3eb9e2807d0","type":"text","text":"# EE6128 RF 公式总结","x":-133,"y":-384,"width":325,"height":50,"color":"4"},
+		{"id":"4f2120e56f3d504f","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/频率依赖的有效微带线宽度计算式.md","x":417,"y":-142,"width":635,"height":179},
+		{"id":"eccf600cd59edc9a","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/自由空间波阻抗计算式.md","x":535,"y":-339,"width":400,"height":168,"color":"4"},
+		{"id":"111f346815cc8c4f","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/频率依赖的特征阻抗计算式.md","x":535,"y":68,"width":400,"height":120}
 	],
 	"edges":[
 		{"id":"8cd1ed20c21feeb6","fromNode":"ae753a36f44c60cf","fromSide":"bottom","toNode":"9589e4bd4a1b05e8","toSide":"top","color":"4"},
