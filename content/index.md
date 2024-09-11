@@ -7,7 +7,7 @@ publish: true
 
 # 踏上取经路，比到达灵山更重要🐵
 
-这个网站是通过 [Obsidian](https://obsidian.md/) 构建笔记之后，通过 [Quartz](https://github.com/jackyzha0/quartz) 进行发布，然后托管在我的 [DXP4800 Plus](https://www.ugnas.com/) 上
+这个网站是通过 [Obsidian](https://obsidian.md/) 构建笔记之后，通过 [Quartz](https://github.com/jackyzha0/quartz) 进行发布，之前是托管在我的 [DXP4800 Plus](https://www.ugnas.com/) 上，现在托管在了Github Pages。
 
 ## 食用指南
 
