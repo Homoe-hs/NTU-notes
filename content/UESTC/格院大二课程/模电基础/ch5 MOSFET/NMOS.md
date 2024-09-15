@@ -5,10 +5,10 @@ aliases:
 tags: 
 publish: "true"
 ---
-## 结构
+# 结构
 
 ![[NMOS 结构]]
 
-## NMOS 工作状态
+# NMOS 工作状态
 
 ![[理想 NMOS 的工作模式]]
