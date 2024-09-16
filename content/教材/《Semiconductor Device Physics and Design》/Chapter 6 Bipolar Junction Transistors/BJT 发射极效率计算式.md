@@ -2,7 +2,7 @@
 title: BJT 发射极效率计算式
 date: 2024-05-06 20:48
 aliases: 
-tags:
+tags: 
 ---
 $$
 \gamma_{e}\cong1-\frac{p_{e_{0}}D_{e}W_{bn}}{n_{b_{0}}D_{b}L_{e}}

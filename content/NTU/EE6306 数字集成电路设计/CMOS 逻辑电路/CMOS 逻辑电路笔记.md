@@ -181,11 +181,24 @@ $$
 
 #### 2.2.1.2. 伪 NMOS 的直流传输特性
 
+可以看出，伪 NMOS 有 $V_{OH} = V_{DD}$，所以我们主要关注的是 $V_{OL}$。
 
+当 $V_{in} =V_{DD}$ 时，下拉路径导通，此时通过下拉器件和负载器件的电流相同。此时可以合理地假设 NMOS 器件处于线性工作模式，而 PMOS 负载处于饱和状态。于是可以写出电流方程，
+$$
+\mathbf{k_{n}}\left((\mathbf{V_{DD}}-\mathbf{V_{Tn}})\mathbf{V_{OL}}-\frac{\mathbf{V_{OL}^{2}}}{2}\right)=\frac{\mathbf{k_{p}}}{2}(\mathbf{V_{DD}}-\left|\mathbf{V_{Tp}}\right|)^{2}
+$$
+解出 $V_{OL}=\dfrac{k_{p}(V_{DD}+V_{Tp})\cdot V_{DSATp}}{k_{n}(V_{DD}-V_{Tn})}=\dfrac{\mu_{p}\cdot W_{p}}{\mu_{n}\cdot W_{n}}\cdot V_{DSATp}$。这里也看出为什么叫有比逻辑。PMOS 与 NMOS 的沟道宽之比能够决定输出的噪声容限。
+
+#### 2.2.1.3. 伪 NMOS 静态功耗
+
+功耗就是整个通路上的电压乘上静态电流。
+$$
+P_{low} = V_{DD}I_{low}=V_{DD}\cdot\left|k_{p}\left((-V_{DD}-V_{Tp})\cdot V_{DSATp}-\frac{V_{DSATp}^{2}}{2}\right)\right|
+$$
 
 ### 2.2.2. 更好的负载器件
 
-通过使用差分逻辑和正反馈能完全消除静态电流和提供从电源轨线至轨线电压摆幅的有比逻辑。一个差分门要求每一个输入都具有互补的形式, 同时它也产生互补的输出。反馈机制保证了在不需要负载器件时将其关断。
+通过使用**差分逻辑**和**正反馈**能完全消除静态电流和提供从电源轨线至轨线电压摆幅的有比逻辑。一个差分门要求每一个输入都具有互补的形式, 同时它也产生互补的输出。反馈机制保证了在不需要负载器件时将其关断。
 
 这样的逻辑系列称为差分串联电压开关逻辑 (Differential Cascode Voltage Switch Logic, DCVSL)
 

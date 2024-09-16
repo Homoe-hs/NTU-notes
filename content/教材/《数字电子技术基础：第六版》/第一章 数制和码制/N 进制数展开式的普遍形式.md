@@ -3,7 +3,6 @@ title: N 进制数展开式的普遍形式
 date: 2024-05-28 17:59
 aliases: 
 tags: 
-publish: "true"
 ---
 $$
 D = \sum k_{i} \times N^{i}

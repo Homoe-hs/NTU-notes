@@ -2,7 +2,7 @@
 title: Chapter 2 Electronic levels in semiconductors
 date: 2024-05-04 13:21
 aliases: 
-tags:
+tags: 
 ---
 ## 一些重要半导体的能带结构
 

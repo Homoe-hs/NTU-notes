@@ -2,7 +2,7 @@
 title: BJT 基极电流计算式
 date: 2024-05-05 22:00
 aliases: 
-tags:
+tags: 
 ---
 当 $W_{bn}\ll L_{b}$ 时，有，
 $$

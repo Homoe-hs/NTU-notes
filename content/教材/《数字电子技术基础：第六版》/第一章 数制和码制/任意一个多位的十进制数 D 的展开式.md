@@ -3,7 +3,6 @@ title: 任意一个多位的十进制数 D 的展开式
 date: 2024-05-28 17:46
 aliases: 
 tags: 
-publish: "true"
 ---
 $$
 D = \sum k_{i} \times 10^{i}

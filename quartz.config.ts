@@ -55,15 +55,15 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
-      }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
           dark: "github-dark",
         },
         keepBackground: false,
+      }),
+      Plugin.CreatedModifiedDate({
+        priority: ["frontmatter", "filesystem"],
       }),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),

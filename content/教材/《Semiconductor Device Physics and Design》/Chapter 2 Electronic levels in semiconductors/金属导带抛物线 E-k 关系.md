@@ -2,7 +2,7 @@
 title: 金属导带抛物线 E-k 关系
 date: 2024-05-04 21:32
 aliases: 
-tags:
+tags: 
 ---
 $$
 E = E_c + \frac{\hbar^2k^2}{2m_{0}}
