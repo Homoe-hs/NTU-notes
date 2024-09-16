@@ -2,7 +2,6 @@
 date: 2024-09-06 14:51
 aliases: 
 tags: 
-publish: "false"
 ---
 $$
 M(V)=\frac{1}{1-\left(\dfrac{V}{BV}\right)^{m}}

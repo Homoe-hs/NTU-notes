@@ -2,7 +2,6 @@
 date: 2024-08-19 18:42
 aliases: 
 tags: 
-publish: "true"
 ---
 $$
 C_{permicon} = C_{ox} L = \dfrac{\epsilon_{ox}}{t_{ox}}L \quad \left[ \mathrm{F/\mu m} \right]

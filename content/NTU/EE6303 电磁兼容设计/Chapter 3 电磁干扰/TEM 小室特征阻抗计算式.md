@@ -2,7 +2,6 @@
 date: 2024-09-09 14:33
 aliases: 
 tags: 
-publish: "false"
 ---
 $$
 Z_{0}\approx\frac{30\pi}{\frac{a}{b}-\frac{2}{\pi}ln\left[sinh\left(\frac{\pi g}{b}\right)\right]}

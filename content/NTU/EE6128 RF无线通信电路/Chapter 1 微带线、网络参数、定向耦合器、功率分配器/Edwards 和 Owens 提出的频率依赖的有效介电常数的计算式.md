@@ -2,7 +2,6 @@
 date: 2024-08-21 15:41
 aliases: 
 tags: 
-publish: "true"
 ---
 $$
 \varepsilon_{eff}(f)=\varepsilon_{r}-\frac{\varepsilon_{r}-\varepsilon_{eff}}{1+\left(\dfrac{h}{Z_{0}}\right)^{133}(0.43f^{2}-0.009f^{3})}

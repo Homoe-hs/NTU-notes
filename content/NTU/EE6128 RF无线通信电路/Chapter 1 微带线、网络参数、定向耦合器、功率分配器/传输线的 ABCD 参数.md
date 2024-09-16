@@ -2,7 +2,6 @@
 date: 2024-08-28 14:29
 aliases: 
 tags: 
-publish: "true"
 ---
 $$
 \begin{bmatrix}A&B\\C&D\end{bmatrix}=\begin{bmatrix}\cos\beta l&jZ_0\sin\beta l\\jY_0\sin\beta l&\cos\beta l\end{bmatrix}

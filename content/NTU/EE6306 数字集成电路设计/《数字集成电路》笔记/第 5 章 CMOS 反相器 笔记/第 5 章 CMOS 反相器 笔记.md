@@ -2,7 +2,6 @@
 date: 2024-09-15 13:22
 aliases: 
 tags: 
-publish: "true"
 number headings: auto, first-level 1, max 5, contents ^toc, 1.1.
 ---
 # 1. 反相器设计指标
@@ -25,12 +24,7 @@ number headings: auto, first-level 1, max 5, contents ^toc, 1.1.
 
 当输入信号 $V_{in}\geq V_{DD}$ 时，NMOS 导通 PMOS 关断，$V_{out} =0$；当输入信号 $V_{in} = 0$，PMOS 导通 NMOS 关断，$V_{out} = V_{DD}$。可以看出来，此时的电路执行了反相器的功能。
 
-这里可以看出静态 CMOS 的重要特性， ^7f5b77
-- 电压摆幅等于电源电压，噪声容限很大。
-- 为无比逻辑，逻辑电平与器件的相对尺寸无关。
-- 较低的输出阻抗，使得其对噪声以及干扰不敏感，具有较大的输出电流和无穷大的扇出。
-- 较高的输入阻抗，稳态输入电流几乎为 0。
-- 不好消耗任何静态功率。在稳态工作情况下，电源和地之间没有直接的通路。
+![[静态 CMOS 特性]]
 
 ## 2.2. 从负载曲线图到电压传输特性 VTC
 

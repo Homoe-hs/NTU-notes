@@ -2,7 +2,6 @@
 date: 2024-09-02 18:00
 aliases: 
 tags: 
-publish: "true"
 number headings: auto, first-level 1, max 5, contents ^toc, 1.1.
 ---
 >[! info]
@@ -48,7 +47,9 @@ number headings: auto, first-level 1, max 5, contents ^toc, 1.1.
 
 ### 2.1.2. 互补 CMOS 门的静态特性
 
-互补 CMOS 门继承了基本 CMOS 反相器的[[第 5 章 CMOS 反相器 笔记#^7f5b77|所有优点]]。
+互补 CMOS 门继承了基本 CMOS 反相器的所有优点。
+
+![[静态 CMOS 特性]]
 
 互补 CMOS 门的电压传输特性和噪声容限分析更复杂，因为这些参数取决于加在这个门上的数据的输入模式，即在同一时间内，PUN 和 PDN 所处的状态以及即将进行的动作都会影响。
 
@@ -73,6 +74,8 @@ number headings: auto, first-level 1, max 5, contents ^toc, 1.1.
 例如对于上面的电路，对于上拉路径，只有一个 PMOS 导通时，延时为 $0.69\times R_{p}\times C_{L}$ 为最坏情况；对于下拉路径，无论如何都需要两个 NMOS 同时导通，此时的延时为 $0.69\times (2R_{N})\times C_{L}$。
 
 在设计的时候，我们一般需要使得互补 CMOS 门的延时和反相器相同，这意味着 PDN 中串联的 NMOS 器件需要是反相器中 NMOS 的两倍宽。
+
+
 
 #### 2.1.3.1. 大扇入的情况
 

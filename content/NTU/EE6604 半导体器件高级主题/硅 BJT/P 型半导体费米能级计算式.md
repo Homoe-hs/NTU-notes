@@ -2,7 +2,6 @@
 date: 2024-08-16 14:59
 aliases: 
 tags: 
-publish: "true"
 ---
 $$
 E_i-E_F=kT\ln\biggl(\frac{N_a}{n_i}\biggr)\quad \left[ \mathrm{eV} \right]

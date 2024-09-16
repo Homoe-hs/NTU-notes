@@ -4,7 +4,6 @@ aliases:
   - Secondary Transistor Behavior
   - 2nd-order effects
 tags: 
-publish: "true"
 ---
 ## 速度饱和效应
 

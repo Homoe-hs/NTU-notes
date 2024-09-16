@@ -2,7 +2,6 @@
 date: 2024-09-09 14:39
 aliases: 
 tags: 
-publish: "false"
 ---
 $$
 f_c=\frac{150}{a}\sqrt{1+\frac{a/b}{\pi x \left(1-x\right) ln\left(\frac{4a}{\pi g}\right)}} \quad \left[ \pu{MHz}\right]

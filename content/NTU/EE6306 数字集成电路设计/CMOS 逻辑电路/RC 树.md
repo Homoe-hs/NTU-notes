@@ -2,7 +2,6 @@
 date: 2024-09-15 20:51
 aliases: 
 tags: 
-publish: "false"
 ---
 ![[RC 树.png|400]]
 

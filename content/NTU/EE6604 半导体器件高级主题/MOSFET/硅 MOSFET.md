@@ -2,7 +2,6 @@
 date: 2024-09-13 20:26
 aliases: 
 tags: 
-publish: "false"
 number headings: auto, first-level 1, max 5, contents ^toc, 1.1.
 ---
 # 1. MOS 电容

@@ -2,7 +2,6 @@
 date: 2024-08-26 11:41
 aliases: 
 tags: 
-publish: "true"
 ---
 当有 $V_{GS}>V_{T}$ 时，说明 NMOS 进入线性区。并且有 $V_{DS}<V_{GS}-V_{T}$，说明 NMOS 并未进入饱和区。
 

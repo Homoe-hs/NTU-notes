@@ -2,7 +2,6 @@
 date: 2024-09-15 17:02
 aliases: 
 tags: 
-publish: "false"
 ---
 合成逻辑门的第一步是利用串联 NMOS 器件实现 AND 功能而并联 NMOS 器件实现 OR 功能的事实推导出它的下拉网络。
 

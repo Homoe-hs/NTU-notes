@@ -2,7 +2,6 @@
 date: 2024-08-30 12:30
 aliases: 
 tags: 
-publish: "true"
 ---
 $$
 \mathrm{Recombination\ Rate}=S_{e}A(n-n_0)\quad \left[ \mathrm{s^{-1}} \right]

@@ -2,7 +2,6 @@
 date: 2024-09-08 21:14
 aliases: 
 tags: 
-publish: "false"
 ---
 $$
 P_r=P_t G_t G_r \frac{\lambda^2}{\left(4\pi r\right)^2}

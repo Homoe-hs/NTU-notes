@@ -2,7 +2,6 @@
 date: 2024-08-14 19:40
 aliases: 
 tags: 
-publish: "true"
 ---
 $$
 \varepsilon_{eff}(f)=\varepsilon_{r}-\frac{\varepsilon_{r}-\varepsilon_{eff}}{1+G\left(f/f_{p}\right)^{2}},\quad\mathrm{where}\quad f_{p}=\frac{Z_{0}}{2\mu_{0}h}

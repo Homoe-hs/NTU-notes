@@ -2,7 +2,6 @@
 date: 2024-09-09 11:15
 aliases: 
 tags: 
-publish: "false"
 ---
 $$
 P_r\left(\mathrm{dBm}\right)=P_t\left(\mathrm{dBm}\right)+G_t\left(\mathrm{dBi}\right)+PL\left(\mathrm{dB}\right)+G_r\left(\mathrm{dBi}\right)+PML\left(\mathrm{dB}\right)

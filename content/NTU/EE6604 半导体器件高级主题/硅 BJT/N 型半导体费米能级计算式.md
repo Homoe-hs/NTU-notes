@@ -2,7 +2,6 @@
 date: 2024-08-16 14:55
 aliases: 
 tags: 
-publish: "true"
 ---
 $$
 E_F-E_{i}=kT\ln\left( \frac{N_d}{n_i} \right) \quad \left[ \mathrm{eV} \right]

@@ -2,7 +2,6 @@
 date: 2024-09-09 14:54
 aliases: 
 tags: 
-publish: "false"
 ---
 $$
 \begin{align}

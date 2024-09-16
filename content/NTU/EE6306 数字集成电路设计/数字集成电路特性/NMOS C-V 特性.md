@@ -3,7 +3,6 @@ date: 2024-08-18 16:35
 aliases: 
 tags: 
 number headings: auto, first-level 2, max 4, contents ^toc, 1.1.
-publish: "true"
 ---
 ## 1. 栅极电容
 

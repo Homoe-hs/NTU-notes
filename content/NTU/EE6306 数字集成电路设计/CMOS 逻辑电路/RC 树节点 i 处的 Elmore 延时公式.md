@@ -2,7 +2,6 @@
 date: 2024-09-15 20:48
 aliases: 
 tags: 
-publish: "false"
 ---
 $$
 \tau _{Di} = \sum^{N}_{k = 1} C_{k}R_{ik}

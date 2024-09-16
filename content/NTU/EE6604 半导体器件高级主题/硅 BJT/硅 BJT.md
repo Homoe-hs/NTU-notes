@@ -3,7 +3,6 @@ date: 2024-08-23 12:57
 aliases: 
 tags: 
 number headings: auto, first-level 1, max 4, contents ^toc, 1.1.
-publish: "true"
 ---
 # 1. BJT 基础复习
 

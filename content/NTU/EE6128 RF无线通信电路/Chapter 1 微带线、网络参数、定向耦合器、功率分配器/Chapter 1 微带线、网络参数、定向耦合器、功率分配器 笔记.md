@@ -3,7 +3,6 @@ date: 2024-08-14 14:19
 aliases: 
 tags: 
 number headings: auto, first-level 1, max 4, contents ^toc, 1.1.
-publish: "true"
 ---
 >[! tldr] 
 >

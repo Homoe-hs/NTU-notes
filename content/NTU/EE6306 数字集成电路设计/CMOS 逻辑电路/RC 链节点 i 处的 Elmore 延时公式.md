@@ -2,7 +2,6 @@
 date: 2024-09-15 20:51
 aliases: 
 tags: 
-publish: "false"
 ---
 $$
 \tau_{DN}=\sum_{i=1}^{N}C_{i}\sum_{j=1}^{i}R_{j}=\sum_{i=1}^{N}C_{i}R_{ii}

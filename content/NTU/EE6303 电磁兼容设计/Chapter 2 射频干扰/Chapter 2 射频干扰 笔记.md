@@ -3,7 +3,6 @@ date: 2024-08-15 22:34
 aliases: 
 tags: 
 number headings: auto, first-level 1, max 5, contents ^toc, 1.1.
-publish: "true"
 ---
 [[Chapter 7 Antennas 笔记]]
 

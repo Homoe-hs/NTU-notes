@@ -2,7 +2,6 @@
 date: 2024-08-26 12:05
 aliases: 
 tags: 
-publish: "true"
 ---
 当满足 $V_{GS}>V_{T}$ 并且 $V_{DS}>V_{GS}-V_{T}$ 的时候，NMOS 沟道开始夹断进入饱和区。此时 I-V 关系变为非线性关系。
 
