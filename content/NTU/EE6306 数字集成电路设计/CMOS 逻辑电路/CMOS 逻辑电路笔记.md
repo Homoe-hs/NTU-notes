@@ -5,7 +5,6 @@ tags:
 number headings: auto, first-level 1, max 5, contents ^toc, 1.1.
 ---
 >[! info]
->
 >《数字集成电路》第 6 章 CMOS 组合逻辑门
 >《数字集成电路》第 7 章时序逻辑电路
 >
@@ -30,7 +29,7 @@ number headings: auto, first-level 1, max 5, contents ^toc, 1.1.
 
 ## 2.1. 互补 CMOS
 
-### 2.1.1. 概念
+### 2.1.1. 互补 CMOS 构成
 
 静态 CMOS 门是上拉网络（PUN）和下拉网路（PDN）的组合。PUN 和 PDN 具有同样的输入，并且总是以互斥的形式构成。这意味着同时只能有一个导通。
 
