@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"827c50c1d5370ac4","type":"file","file":"100 项目笔记/NTU/EE6303 电磁兼容设计/波束面积计算式.md","x":-100,"y":-474,"width":400,"height":194},
-		{"id":"fe8e1b34d6f3e7e3","type":"file","file":"100 项目笔记/NTU/EE6303 电磁兼容设计/方向性系数计算式.md","x":-100,"y":-244,"width":400,"height":228},
-		{"id":"ac21e609dd666c45","type":"file","file":"100 项目笔记/NTU/EE6303 电磁兼容设计/归一化电场定义式.md","x":-100,"y":-896,"width":400,"height":165},
-		{"id":"4ff1d026ecf8cb1f","type":"file","file":"100 项目笔记/NTU/EE6303 电磁兼容设计/归一化功率计算式.md","x":-100,"y":-705,"width":400,"height":198},
-		{"id":"e77924917efb4f7a","type":"file","file":"100 项目笔记/NTU/EE6303 电磁兼容设计/归一化电场与归一化功率的关系.md","x":388,"y":-751,"width":400,"height":92},
+		{"id":"827c50c1d5370ac4","type":"file","file":"100 项目笔记/NTU/EE6303 电磁兼容设计/Chapter 3 电磁干扰/波束面积计算式.md","x":-100,"y":-474,"width":400,"height":194},
+		{"id":"fe8e1b34d6f3e7e3","type":"file","file":"100 项目笔记/NTU/EE6303 电磁兼容设计/Chapter 3 电磁干扰/方向性系数计算式.md","x":-100,"y":-244,"width":400,"height":228},
+		{"id":"ac21e609dd666c45","type":"file","file":"100 项目笔记/NTU/EE6303 电磁兼容设计/Chapter 3 电磁干扰/归一化电场定义式.md","x":-100,"y":-896,"width":400,"height":165},
+		{"id":"4ff1d026ecf8cb1f","type":"file","file":"100 项目笔记/NTU/EE6303 电磁兼容设计/Chapter 3 电磁干扰/归一化功率计算式.md","x":-100,"y":-705,"width":400,"height":198},
+		{"id":"e77924917efb4f7a","type":"file","file":"100 项目笔记/NTU/EE6303 电磁兼容设计/Chapter 3 电磁干扰/归一化电场与归一化功率的关系.md","x":388,"y":-751,"width":400,"height":92},
 		{"id":"4e9f2ca49ba842d8","type":"file","file":"100 项目笔记/NTU/EE6303 电磁兼容设计/Chapter 2 射频干扰/天线增益计算式.md","x":-100,"y":32,"width":400,"height":227},
 		{"id":"cc6d8c9af398045d","type":"file","file":"200 文献笔记/线下课程/UESTC/格院大四上课程/数字通信课程/课程 slides/链路预算设计/有效辐射功率计算式.md","x":494,"y":-539,"width":400,"height":166},
 		{"id":"174a06513aa610e0","type":"file","file":"100 项目笔记/NTU/EE6303 电磁兼容设计/Chapter 2 射频干扰/远场功率密度计算式.md","x":494,"y":-336,"width":400,"height":191},
