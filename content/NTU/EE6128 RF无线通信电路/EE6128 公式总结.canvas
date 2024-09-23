@@ -1,14 +1,16 @@
 {
 	"nodes":[
-		{"id":"9589e4bd4a1b05e8","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/微带线宽高比经验计算式.md","x":-265,"y":-190,"width":588,"height":275},
 		{"id":"ae753a36f44c60cf","type":"text","text":"基础参数\n$Z_{0}$，$\\epsilon_{r}$，$f$，$h$","x":-96,"y":-274,"width":250,"height":60,"color":"4"},
-		{"id":"a2d30e6a2ee69542","type":"file","file":"200 文献笔记/线下课程/UESTC/格院大四上课程/微波集成电路课程/课程笔记/MIC 基础知识/传输线理论/CPW 有效相对介电常数计算式.md","x":-307,"y":109,"width":673,"height":298},
-		{"id":"94a96443cf2fa975","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/频率依赖的有效介电常数的基于 Getsinger 模型的简化经验计算公式.md","x":-375,"y":476,"width":404,"height":271},
-		{"id":"46ae389d239e6894","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/Edwards 和 Owens 提出的频率依赖的有效介电常数的计算式.md","x":75,"y":495,"width":400,"height":233},
 		{"id":"b376d3eb9e2807d0","type":"text","text":"# EE6128 RF 公式总结","x":-133,"y":-384,"width":325,"height":50,"color":"4"},
-		{"id":"4f2120e56f3d504f","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/频率依赖的有效微带线宽度计算式.md","x":417,"y":-142,"width":635,"height":179},
-		{"id":"eccf600cd59edc9a","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/自由空间波阻抗计算式.md","x":535,"y":-339,"width":400,"height":168,"color":"4"},
-		{"id":"111f346815cc8c4f","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/频率依赖的特征阻抗计算式.md","x":535,"y":68,"width":400,"height":120}
+		{"id":"9589e4bd4a1b05e8","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/微带线宽高比经验计算式.md","x":-286,"y":-190,"width":631,"height":275},
+		{"id":"4f2120e56f3d504f","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/频率依赖的有效微带线宽度计算式.md","x":403,"y":-142,"width":635,"height":179},
+		{"id":"eccf600cd59edc9a","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/自由空间波阻抗计算式.md","x":521,"y":-339,"width":400,"height":168,"color":"4"},
+		{"id":"111f346815cc8c4f","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/频率依赖的特征阻抗计算式.md","x":521,"y":68,"width":400,"height":122},
+		{"id":"a2d30e6a2ee69542","type":"file","file":"200 文献笔记/线下课程/UESTC/格院大四上课程/微波集成电路课程/课程笔记/MIC 基础知识/传输线理论/CPW 有效相对介电常数计算式.md","x":-307,"y":129,"width":673,"height":298},
+		{"id":"94a96443cf2fa975","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/频率依赖的有效介电常数的基于 Getsinger 模型的简化经验计算公式.md","x":-172,"y":496,"width":404,"height":271},
+		{"id":"46ae389d239e6894","type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/Edwards 和 Owens 提出的频率依赖的有效介电常数的计算式.md","x":260,"y":515,"width":400,"height":233},
+		{"id":"9937b475ad28d5e9","x":-750,"y":160,"width":400,"height":236,"type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/Chapter 1 微带线、网络参数、定向耦合器、功率分配器/导波波长计算式.md"},
+		{"id":"e723cae9863a1e85","x":-750,"y":512,"width":400,"height":240,"type":"file","file":"100 项目笔记/NTU/EE6128 RF无线通信电路/频率依赖的导波波长计算式.md"}
 	],
 	"edges":[
 		{"id":"8cd1ed20c21feeb6","fromNode":"ae753a36f44c60cf","fromSide":"bottom","toNode":"9589e4bd4a1b05e8","toSide":"top","color":"4"},
@@ -17,6 +19,8 @@
 		{"id":"6ee5bb7963b37fe8","fromNode":"a2d30e6a2ee69542","fromSide":"bottom","toNode":"46ae389d239e6894","toSide":"top"},
 		{"id":"1748e67f86776903","fromNode":"9589e4bd4a1b05e8","fromSide":"right","toNode":"4f2120e56f3d504f","toSide":"left"},
 		{"id":"c21b745e0aa0b3d8","fromNode":"4f2120e56f3d504f","fromSide":"bottom","toNode":"111f346815cc8c4f","toSide":"top"},
-		{"id":"3487af0ced0de974","fromNode":"eccf600cd59edc9a","fromSide":"bottom","toNode":"4f2120e56f3d504f","toSide":"top"}
+		{"id":"3487af0ced0de974","fromNode":"eccf600cd59edc9a","fromSide":"bottom","toNode":"4f2120e56f3d504f","toSide":"top"},
+		{"id":"8efbd76db8203a69","fromNode":"a2d30e6a2ee69542","fromSide":"left","toNode":"9937b475ad28d5e9","toSide":"right"},
+		{"id":"f102b7559b435b10","fromNode":"9937b475ad28d5e9","fromSide":"bottom","toNode":"e723cae9863a1e85","toSide":"top"}
 	]
 }
