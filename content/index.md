@@ -5,11 +5,6 @@ tags:
 publish: true
 ---
 
->[!help]
->我希望这个能正常显示
->
-
-
 # 踏上取经路，比到达灵山更重要🐵
 
 这个网站是通过 [Obsidian](https://obsidian.md/) 构建笔记之后，通过 [Quartz](https://github.com/jackyzha0/quartz) 进行发布，之前是托管在我的 [DXP4800 Plus](https://www.ugnas.com/) 上，现在托管在了Github Pages。
@@ -22,7 +17,7 @@ publish: true
 
 [[EE6128 RF 无线通信电路]]  
 
-[[EE6303 电磁兼容设计笔记]]
+[[EE6303 《电磁兼容设计》笔记]]
 
 [[EE6306 《数字集成电路设计》笔记]]
 
@@ -57,9 +52,9 @@ publish: true
 - [x] 启用弹窗预览
 - [x] 使用我自己的域名
 	- [x] 不知道为什么在cloudflare修改后无法托管（
-- [ ] css 样式修改
-- [ ] 文件夹结构优化
-- [ ] 内容优化
+- [x] callout 无法正常显示
+	- [x] 靠更新解决了
+- [ ] 反链样式修改
 - [ ] Canvas 支持（需要quartz官方支持）
 - [ ] 修改网站标题
 
